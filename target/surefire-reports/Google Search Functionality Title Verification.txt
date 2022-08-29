@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: Google Search Functionality Title Verification
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 132.044 s <<< FAILURE! - in Google Search Functionality Title Verification
+Google Search Functionality Title Verification.Search functionality result title verification #2  Time elapsed: 47.578 s  <<< FAILURE!
+org.junit.ComparisonFailure: Title verification is failed! expected:<apple [–] Google Search> but was:<apple [-] Google Search>
+

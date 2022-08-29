@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: com.cydeo.runner.CukesRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.001 s <<< FAILURE! - in com.cydeo.runner.CukesRunner
+com.cydeo.runner.CukesRunner.initializationError  Time elapsed: 0.001 s  <<< ERROR!
+io.cucumber.core.gherkin.FeatureParserException: 
+Failed to parse resource at: file:///Users/ahmettartar/IdeaProjects/cucumber-junit-project/src/test/resources/features/lib_LoginWithParameters.feature
+(18:3): expected: #TagLine, #RuleLine, #Comment, #Empty, got 'Scenario for Task4'
+(19:3): expected: #TagLine, #RuleLine, #Comment, #Empty, got 'Scenario: Login as librarian same line'
+(20:5): expected: #TagLine, #RuleLine, #Comment, #Empty, got 'When user login using "librarian1@library" and "rs4BNN9G"'
+(21:5): expected: #TagLine, #RuleLine, #Comment, #Empty, got 'Then user should see the dashboard page'
+(22:5): expected: #TagLine, #RuleLine, #Comment, #Empty, got 'And there should be 138 users'
+(23:0): unexpected end of file, expected: #TagLine, #RuleLine, #Comment, #Empty
+

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Order process with scenario outline
+-------------------------------------------------------------------------------
+Tests run: 8, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 129.224 s - in Order process with scenario outline
